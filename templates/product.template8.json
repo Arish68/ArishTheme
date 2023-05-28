@@ -1,0 +1,13 @@
+{
+    "sections": {
+      "main": {
+        "type": "product-template-8",
+        "settings": {
+            
+        }
+      }
+    },
+    "order": [
+      "main"
+    ]
+  }
