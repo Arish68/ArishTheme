@@ -1,2 +1,2 @@
-# ArishTheme
-Shopify Arish theme
+# Shopify Theme Development
+Shopify
