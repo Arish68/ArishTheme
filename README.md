@@ -1,0 +1,2 @@
+# ArishTheme
+Shopify Arish theme
