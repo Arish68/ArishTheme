@@ -658,8 +658,6 @@
           "1561259904381": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/s1.jpg",
-              "image_mobile": "shopify:\/\/shop_images\/s2_mobile.jpg",
               "alignment": "center center",
               "text_alignment": "left center",
               "bgwrap": "#f8ede7",
@@ -681,8 +679,6 @@
           "1561259906467": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/s2.jpg",
-              "image_mobile": "shopify:\/\/shop_images\/s1_mobile.jpg",
               "alignment": "center center",
               "text_alignment": "right center",
               "bgwrap": "#c4aa8a",
@@ -1534,7 +1530,7 @@
           "dots": false,
           "infinite": true,
           "radius": false,
-          "link_list_head": "support",
+          "link_list_head": "",
           "email_sidebar": true,
           "email_sidebar_title": "Newsletter",
           "socialshare": true
@@ -3215,6 +3211,7 @@
           "1590595440196-1",
           "1590595440196-2"
         ],
+        "disabled": true,
         "settings": {
           "animation": "fade",
           "paddingsection": "98px 0px 98px 0px",
@@ -3257,15 +3254,16 @@
         "blocks": {
           "1593874992779": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "width": "50%",
               "align": "auto",
-              "image": "shopify:\/\/shop_images\/ninoe.jpg",
               "image_link": "shopify:\/\/collections\/t-shirts"
             }
           },
           "1591205279336-0": {
             "type": "html",
+            "disabled": true,
             "settings": {
               "code": "<div class=\" pl-md-5 ml-md-5 pt-5\">\n<span class=\"subtop\">About November<\/span>\n<h2 class=\"my-3\">We have created <br> a  line of fashion that inspires you<\/h2>\n<p class=\"mb-5\">Apparently we had reached a great height in the atmosphere, for the sky was \na dead black and there a stars.<\/p>\n<a href=\"\/collections\/new-arrivals\" class=\"btn btn-theme\">Read more<\/a>\n<\/div>",
               "width": "50%",
@@ -3277,6 +3275,7 @@
           "1593874992779",
           "1591205279336-0"
         ],
+        "disabled": true,
         "settings": {
           "animation": "fade-up",
           "paddingsection": "130px 0px 130px 0px",
@@ -3301,7 +3300,6 @@
           "pnewletter_time_delay": 3,
           "pnewletter_time": 20,
           "pnewletter_background": "",
-          "pnewletter_bgimage": "shopify:\/\/shop_images\/s2-2.jpg",
           "pnewletter_title": "Join our newsletter and <br> get 20% discount",
           "pnewletter_title_cl": "",
           "pnewletter_description": "<p>We promise we won't write to you often, only for the fun stuff.<\/p>",
@@ -3313,8 +3311,8 @@
         "blocks": {
           "1593751971552-0": {
             "type": "image_block",
+            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/bow.jpg",
               "linkimg": "shopify:\/\/collections\/accessories",
               "title": "BLACK OR WHITE?",
               "text": "<h2>Style inspiration: \nBlack. Grey. White<\/h2>",
@@ -3323,8 +3321,8 @@
           },
           "1593751971552-1": {
             "type": "image_block",
+            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/ss.jpg",
               "linkimg": "shopify:\/\/collections\/women",
               "title": "WHAT'S HOT NOW?",
               "text": "<h2>Street style: This season \nbest buy<\/h2>",
@@ -3336,6 +3334,7 @@
           "1593751971552-0",
           "1593751971552-1"
         ],
+        "disabled": true,
         "settings": {
           "animation": "fade-up",
           "paddingsection": "130px 0px 130px 0px",
@@ -3351,6 +3350,7 @@
       },
       "1593875730388": {
         "type": "featured-articles",
+        "disabled": true,
         "settings": {
           "animation": "fade-up",
           "paddingsection": "120px 0px 60px 0px",
@@ -3408,6 +3408,7 @@
           "1593875942341",
           "1593876804528"
         ],
+        "disabled": true,
         "settings": {
           "animation": "fade-up",
           "paddingsection": "0px 0px 130px 0px",
@@ -3427,6 +3428,7 @@
       },
       "1593878278394": {
         "type": "line",
+        "disabled": true,
         "settings": {
           "animation": "",
           "paddingsection": "0px 0px 0px 0px",
@@ -3441,43 +3443,67 @@
         "blocks": {
           "1594832416855-0": {
             "type": "quote",
+            "disabled": true,
             "settings": {
               "title": "From the People—Customer Reviews",
               "quote": "<h3>“The most comfortable shoes ever!! I <br>\nhave them in 3 colors. And I am not <br>done.\"<\/h3>",
               "rate": 4,
               "author": "— Jaycie, The Day Glove",
-              "info": "",
-              "avatar": "shopify:\/\/shop_images\/tes1.jpg"
+              "info": ""
             }
           },
           "1594832416855-1": {
             "type": "quote",
+            "disabled": true,
             "settings": {
               "title": "Wonderful",
               "quote": "<h3>“These are amazing leggings. I’ve ordered two more pairs! They feel like butter and you can go from workout to dressy. Love them!”<\/h3>",
               "rate": 5,
               "author": "— Susan P., The Denim Short",
-              "info": "",
-              "avatar": "shopify:\/\/shop_images\/tes2.jpg"
+              "info": ""
             }
           },
           "1594832416855-2": {
             "type": "quote",
+            "disabled": true,
             "settings": {
               "title": "Comment",
               "quote": "<h3>“Absolutely loved it. The fit, the quality and the color. This is a slim fit jean like none other and the only one I will buy.”<\/h3>",
               "rate": 5,
               "author": "Author's name",
-              "info": "",
-              "avatar": "shopify:\/\/shop_images\/tes3.jpg"
+              "info": ""
+            }
+          },
+          "19c981f6-4afb-4e8d-8e6f-40f26c01d449": {
+            "type": "quote",
+            "disabled": true,
+            "settings": {
+              "title": "Comment",
+              "quote": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+              "rate": 5,
+              "author": "Author's name",
+              "info": ""
+            }
+          },
+          "840b1095-66f0-4103-9bff-90c516b7fbe3": {
+            "type": "quote",
+            "settings": {
+              "title": "Comment",
+              "quote": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+              "rate": 5,
+              "author": "Author's name",
+              "info": ""
             }
           }
         },
         "block_order": [
           "1594832416855-0",
           "1594832416855-1",
-          "1594832416855-2"
+          "1594832416855-2",
+          "19c981f6-4afb-4e8d-8e6f-40f26c01d449",
+          "840b1095-66f0-4103-9bff-90c516b7fbe3"
         ],
+        "disabled": true,
         "settings": {
           "animation": "fade-up",
           "paddingsection": "75px 0px 75px 0px",
@@ -3505,13 +3531,14 @@
           "footermidtext": "#262613",
           "footermidlink": "#262613",
           "social_enable": true,
-          "linklist_link": "menu-footer-1",
+          "linklist_link": "",
           "copyright": true,
           "customcopyright": "© 2021, Your Store. Powered by Shopify"
         }
       },
       "1595086648291": {
         "type": "featured-products",
+        "disabled": true,
         "settings": {
           "animation": "fade-up",
           "paddingsection": "130px 0px 90px 0px",
