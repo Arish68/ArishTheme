@@ -3211,7 +3211,6 @@
           "1590595440196-1",
           "1590595440196-2"
         ],
-        "disabled": true,
         "settings": {
           "animation": "fade",
           "paddingsection": "98px 0px 98px 0px",
@@ -3254,7 +3253,6 @@
         "blocks": {
           "1593874992779": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "width": "50%",
               "align": "auto",
@@ -3263,7 +3261,6 @@
           },
           "1591205279336-0": {
             "type": "html",
-            "disabled": true,
             "settings": {
               "code": "<div class=\" pl-md-5 ml-md-5 pt-5\">\n<span class=\"subtop\">About November<\/span>\n<h2 class=\"my-3\">We have created <br> a  line of fashion that inspires you<\/h2>\n<p class=\"mb-5\">Apparently we had reached a great height in the atmosphere, for the sky was \na dead black and there a stars.<\/p>\n<a href=\"\/collections\/new-arrivals\" class=\"btn btn-theme\">Read more<\/a>\n<\/div>",
               "width": "50%",
@@ -3275,7 +3272,6 @@
           "1593874992779",
           "1591205279336-0"
         ],
-        "disabled": true,
         "settings": {
           "animation": "fade-up",
           "paddingsection": "130px 0px 130px 0px",
@@ -3311,7 +3307,6 @@
         "blocks": {
           "1593751971552-0": {
             "type": "image_block",
-            "disabled": true,
             "settings": {
               "linkimg": "shopify:\/\/collections\/accessories",
               "title": "BLACK OR WHITE?",
@@ -3321,7 +3316,6 @@
           },
           "1593751971552-1": {
             "type": "image_block",
-            "disabled": true,
             "settings": {
               "linkimg": "shopify:\/\/collections\/women",
               "title": "WHAT'S HOT NOW?",
@@ -3334,7 +3328,6 @@
           "1593751971552-0",
           "1593751971552-1"
         ],
-        "disabled": true,
         "settings": {
           "animation": "fade-up",
           "paddingsection": "130px 0px 130px 0px",
@@ -3350,7 +3343,6 @@
       },
       "1593875730388": {
         "type": "featured-articles",
-        "disabled": true,
         "settings": {
           "animation": "fade-up",
           "paddingsection": "120px 0px 60px 0px",
@@ -3408,7 +3400,6 @@
           "1593875942341",
           "1593876804528"
         ],
-        "disabled": true,
         "settings": {
           "animation": "fade-up",
           "paddingsection": "0px 0px 130px 0px",
@@ -3428,7 +3419,6 @@
       },
       "1593878278394": {
         "type": "line",
-        "disabled": true,
         "settings": {
           "animation": "",
           "paddingsection": "0px 0px 0px 0px",
@@ -3443,7 +3433,6 @@
         "blocks": {
           "1594832416855-0": {
             "type": "quote",
-            "disabled": true,
             "settings": {
               "title": "From the People—Customer Reviews",
               "quote": "<h3>“The most comfortable shoes ever!! I <br>\nhave them in 3 colors. And I am not <br>done.\"<\/h3>",
@@ -3454,7 +3443,6 @@
           },
           "1594832416855-1": {
             "type": "quote",
-            "disabled": true,
             "settings": {
               "title": "Wonderful",
               "quote": "<h3>“These are amazing leggings. I’ve ordered two more pairs! They feel like butter and you can go from workout to dressy. Love them!”<\/h3>",
@@ -3465,7 +3453,6 @@
           },
           "1594832416855-2": {
             "type": "quote",
-            "disabled": true,
             "settings": {
               "title": "Comment",
               "quote": "<h3>“Absolutely loved it. The fit, the quality and the color. This is a slim fit jean like none other and the only one I will buy.”<\/h3>",
@@ -3476,7 +3463,6 @@
           },
           "19c981f6-4afb-4e8d-8e6f-40f26c01d449": {
             "type": "quote",
-            "disabled": true,
             "settings": {
               "title": "Comment",
               "quote": "Add customer reviews and testimonials to showcase your store’s happy customers.",
@@ -3538,7 +3524,6 @@
       },
       "1595086648291": {
         "type": "featured-products",
-        "disabled": true,
         "settings": {
           "animation": "fade-up",
           "paddingsection": "130px 0px 90px 0px",
